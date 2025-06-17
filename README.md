@@ -7,7 +7,7 @@ Welcome to the section of my portfolio dedicated to projects involving **visuali
 ![library](resource/visualization.jpg)
 ### 📚 Data Survey | Power BI
 
-- **Description**: The goal is to showcase skills in database design, manipulation, and querying, through the implementation of a Library Management System. 
+- **Description**: This projects involves extracting insgights from Profession Survey.
 - **Queries**: `PRIMARY KEYS`, `JOINS`,  `PROCEDURES`, `FUNCTIONS`, `CTAS`, `Subquery`
 - **Resource**: [`library-management.sql`](library-project)
 

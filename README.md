@@ -4,7 +4,7 @@ Welcome to the section of my portfolio dedicated to projects involving **visuali
 
 ---
 
-![library](resource/visualization.JPG)
+![library](resource/visualization.jpg)
 ### 📚 Data Survey | Power BI
 
 - **Description**: The goal is to showcase skills in database design, manipulation, and querying, through the implementation of a Library Management System. 

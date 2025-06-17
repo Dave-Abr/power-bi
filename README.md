@@ -9,7 +9,7 @@ Welcome to the section of my portfolio dedicated to projects involving **visuali
 
 - **Description**: This projects involves extracting insgights from Profession Survey.
 - **Queries**: `PRIMARY KEYS`, `JOINS`,  `PROCEDURES`, `FUNCTIONS`, `CTAS`, `Subquery`
-- **Resource**: [`library-management.sql`](library-project)
+- **Resource**: [`library-management.sql`](Data Proffesión Survey.pbix)
 
 ---
 
